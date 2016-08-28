@@ -79,7 +79,14 @@ para fazer uma requisição e retornar o que deseja, como, o Status da Transmiss
   </code></pre>
 </p>
 
+<p>
+  URL apenas para TESTES!!!
+  <pre><code>
+       http://jacobmoura.com.br/youtubeAPI/apiREST.php?channelId=ID_DO_CANAL&key=SUA_KEY&type=embled   //redireciona para a url do vídeo em transmissão (PARA USAR NO SEU IFRAME)
+  </code></pre>
+</p>
 
+<p>
 <br><br>
 <h3>Qualquer dúvida @twitter: jacob_moura ou por email: jacobaraujo7@gmail.com</h3>
 
